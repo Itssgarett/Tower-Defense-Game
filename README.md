@@ -30,9 +30,9 @@ Scope of demoing deliverables
 
 Rough Assignment of Work 
 
-	Garett – Map/levels, Assets for enemies and towers 
+	Garett – Map/levels, Assets for enemies and towers + code for each
 
-	Layton – Tower and enemy code, hitboxes, and UI 
+	Layton – hitboxes, and UI 
 
 Freely Available Assets 
 
